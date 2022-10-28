@@ -20,6 +20,7 @@ public class StringConcatExample {
         System.out.println("result5: " + result5);
         
         // String이 있으면 int도 문자열로 자동 변환되여 문자열 결합 연산을 함
+        // "10" + "2" + "3" 역시 "1023"으로 수행됨
         //** output
         // result1: 20
         // result2: 128
