@@ -15,7 +15,7 @@ public class CastingExample {
         int var5 = 65;
         char var6 = (char) var5;
         System.out.println(var6); //'A'가 출력
-
+        
 
         double var7 = 3.14;
         int var8 = (int) var7;
