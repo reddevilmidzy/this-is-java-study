@@ -10,4 +10,5 @@ public class Earth {
     static {
         EARTH_SURFACE_AREA = 4 * Math.PI * EARTH_RADIUS * EARTH_RADIUS;
     }
+
 }
