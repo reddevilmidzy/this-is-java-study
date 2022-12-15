@@ -1,4 +1,4 @@
-package ch12.sec05;
+package ch12.sec06;
 
 public class BoxingUnBoxingExample {
     public static void main(String[] args) {
