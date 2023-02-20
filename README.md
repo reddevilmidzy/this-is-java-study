@@ -19,7 +19,7 @@
 [클래스](https://github.com/reddevilmidzy/this-is-java-study/tree/main/isitjava/src/ch06)
 
 ## 챕터 7
-[상송](https://github.com/reddevilmidzy/this-is-java-study/tree/main/isitjava/src/ch07)
+[상속](https://github.com/reddevilmidzy/this-is-java-study/tree/main/isitjava/src/ch07)
 
 ## 챕터 8
 [인터페이스](https://github.com/reddevilmidzy/this-is-java-study/tree/main/isitjava/src/ch08)
